@@ -98,7 +98,7 @@ NLP techniques are used to:
 🔧 Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/restaurant-chatbot.git
+git clone https://github.com/ayankr11/restaurant-chatbot.git
 cd restaurant-chatbot
 
 2️⃣ Create Virtual Environment (Recommended)
